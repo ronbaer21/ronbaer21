@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ronbaer21
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-ronbaer21/ronbaer21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+- 👋 Hi, I’m ronbaer21
+- 👀 I’m a 78 year old retired test engineer with a degree in computer science interested in all things electronic, mechanical, and cnc/robotic control software.
+- 🌱 I’m currently relearning C/C++ 
+- 💞️ I’m interested in CNC controller software for STM32F767ZI development board
+- 📫 My email is ronbaer21@hotmail.com.
+- 
 --->
